@@ -36,4 +36,4 @@ email : test@test.com
 password : test
 
 #use instructions
-to add a place click on the map at the desired place 
+to add a place : click on the map at the desired place 
